@@ -78,12 +78,12 @@
        >Manchester United is one of the most successful clubs in Europe in terms of trophies won.[261] The club's first trophy was the Manchester Cup, which they won as Newton Heath LYR in 1886.[262] In 1908, the club won their first league title, and won the FA Cup for the first time the following year. Since then, they have gone on to win a record 20 top-division titles – including a record 13 Premier League titles – and their total of 12 FA Cups is second only to Arsenal (14). Those titles have meant the club has appeared a record 30 times in the FA Community Shield (formerly the FA Charity Shield), which is played at the start of each season between the winners of the league and FA Cup from the previous season; of those 30 appearances, Manchester United have won a record 21, including four times when the match was drawn and the trophy shared by the two clubs.</p>
               <div class=" grid grid-cols-1 mt-10">
                  
-                <div class=" flex flex-col justify-center items-center " data-aos="zoom-in" data-aos-easing="ease-in-sine"  data-aos-once="false" data-aos-duration="2000">
+                <div class=" flex flex-col justify-center items-center " data-aos="fade-down"  data-aos-easing="ease-in"  data-aos-once="false" data-aos-duration="2000">
                 <img src="../triple.png" alt="" class=" xl:w-3/12 w-8/12" >
                 <h2 class=" font-koko xl:text-3xl text-lg text-red-700 font-semibold my-5">The Treble First Winner In England (1998-1999)</h2>
                 </div>
 
-                <p class=" my-20 w-3/4 mx-auto xl:p-2 font-meme text-red-600 font-semibold " data-aos="fade"  data-aos-duration="2000" data-aos-easing="ease-in-out"  data-aos-once="false">
+                <p class=" my-20 w-3/4 mx-auto xl:p-2 font-meme text-red-600 font-semibold " data-aos="fade"   data-aos-duration="2000" data-aos-easing="ease-in-out"  data-aos-once="false">
                   In the 1998–99 season, Manchester United became the first team to win the Premier League, FA Cup and UEFA Champions League – "The Treble" – in the same season.[47] Trailing 1–0 going into injury time in the 1999 UEFA Champions League final, Teddy Sheringham and Ole Gunnar Solskjær scored late goals to claim a dramatic victory over Bayern Munich, in what is considered one of the greatest comebacks of all time. That summer, Ferguson received a knighthood for his services to football
                 </p>
               </div>
