@@ -1,7 +1,7 @@
 
 
 <template>
-  <div>
+  <div class=" scroll-mx-0">
      <!-- start  -->
      <div class=" relative ">
     <!-- nav bar -->
@@ -43,7 +43,7 @@
       </div>
     <!-- nav bar -->
    <!-- phone nav  -->
-     <div class=" xl:hidden  absolute mt-3 p-3 w-full ease-in duration-700" :class="complete ? 'right-[0%]' : 'right-[-100%]'"  >
+     <div class=" xl:hidden absolute mt-3 p-3 w-full ease-in duration-700" :class="complete ? 'top-[4%]' : '  top-[-10%]'"  >
                  <ul class=" bg-red-600 p-1 flex rounded-lg flex-col align-items-center">
                   <li class="my-3 "><a href="#home" class="  text-white hover:text-black font-semibold no-underline text-lg">Home</a></li>
                   <li class="my-3"><a href="" class=" text-white hover:text-black  font-semibold no-underline text-lg">Trophy</a></li>
